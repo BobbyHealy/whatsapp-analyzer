@@ -11,7 +11,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <StartButton/>
-        <CardHolder></CardHolder>
       </header>
     </div>
   );
